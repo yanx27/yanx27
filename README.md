@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![yanx27's github stats](https://github-readme-stats.vercel.app/api?username=yanx27&show_icons=true&count_private=true&theme=default_repocard)
+![yanx27's github stats](https://github-readme-stats.vercel.app/api?username=yanx27&show_icons=true&hide=prs&&count_private=false&theme=default_repocard)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanx27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
