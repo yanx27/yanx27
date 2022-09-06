@@ -1,4 +1,4 @@
-### Hi, I'm Benny 👋
+### Hi, I'm Xu YAN 👋
 
 <!--
 **yanx27/yanx27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 ![yanx27's github stats](https://github-readme-stats.vercel.app/api?username=yanx27&show_icons=true&hide=prs&&count_private=false&theme=default_repocard)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanx27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+✧ Homepage: https://yanx27.github.io/
+
+✧ Google Scholar: https://scholar.google.com.hk/citations?hl=zh-CN&user=TK4Ty0gAAAAJ
